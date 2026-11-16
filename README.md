@@ -15,8 +15,6 @@
 
 ## 🛠️ Tech Stack
 
-*(Sesuaikan bagian ini dengan teknologi yang digunakan di dalam repositori)*
-
 - **Frontend:** HTML5, CSS3, JavaScript *(atau React / Vite / Tailwind CSS)*
 - **Icons & Assets:** FontAwesome / Lucide Icons / Google Fonts
 - **Deployment:** GitHub Pages / Vercel / Netlify
